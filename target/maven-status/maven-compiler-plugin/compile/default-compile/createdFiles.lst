@@ -1,0 +1,5 @@
+es/etg/dam/impresora/servidor/Conexion.class
+es/etg/dam/impresora/servidor/Servidor.class
+es/etg/dam/impresora/servidor/Impresora.class
+es/etg/dam/impresora/servidor/Tinta.class
+es/etg/dam/impresora/cliente/Cliente.class
